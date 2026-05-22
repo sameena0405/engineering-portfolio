@@ -27,7 +27,7 @@ export default function Hero() {
             View Projects
           </a>
 
-          <a href="resume.pdf" className="btn-outline" download>
+          <a href="resume.pdf" className="btn-outline" target="_blank" rel="noreferrer">
             Download Resume
           </a>
         </div>
