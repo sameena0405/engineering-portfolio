@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/engineering-portfolio/static/css/main.861a1b8c.css",
-    "main.js": "/engineering-portfolio/static/js/main.79688200.js",
+    "main.js": "/engineering-portfolio/static/js/main.fc1a2c12.js",
     "static/media/myphoto.png": "/engineering-portfolio/static/media/myphoto.7030c2fe2c6b8ae6f9e1.png",
     "static/media/projectp1.png": "/engineering-portfolio/static/media/projectp1.00add38d858ca5af6ddd.png",
     "index.html": "/engineering-portfolio/index.html",
     "main.861a1b8c.css.map": "/engineering-portfolio/static/css/main.861a1b8c.css.map",
-    "main.79688200.js.map": "/engineering-portfolio/static/js/main.79688200.js.map"
+    "main.fc1a2c12.js.map": "/engineering-portfolio/static/js/main.fc1a2c12.js.map"
   },
   "entrypoints": [
     "static/css/main.861a1b8c.css",
-    "static/js/main.79688200.js"
+    "static/js/main.fc1a2c12.js"
   ]
 }
