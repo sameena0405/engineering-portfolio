@@ -27,8 +27,12 @@ export default function Hero() {
             View Projects
           </a>
 
-          <a href="/resume.pdf" className="btn-outline" target="_blank" rel="noopener noreferrer">
-            Download Resume
+          <a
+          href={`${process.env.PUBLIC_URL}/resume.pdf`}
+          target="_blank"
+          rel="noreferrer"
+        >
+          Download Resume
           </a>
         </div>
 
