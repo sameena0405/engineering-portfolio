@@ -44,7 +44,7 @@ export default function Projects() {
 
           <h3>EcomHub - E-Commerce Website</h3>
           <p>
-            A responsive e-commerce web application developed using React,
+            A responsive e-commerce web application developed using Spring Boot for backend and React.js with vite for frontend,
             featuring product browsing, category filtering, shopping cart, and a
             modern user-friendly interface.
           </p>
