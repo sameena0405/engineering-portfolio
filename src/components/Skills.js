@@ -8,10 +8,11 @@ export default function Skills() {
       <div className="skills-grid">
         <div className="skill-box">HTML</div>
         <div className="skill-box">CSS</div>
-        <div className="skill-box">JavaScript</div>
+        <div className="skill-box">Spring Boot</div>
         <div className="skill-box">React</div>
 
         <div className="skill-box">Node.js</div>
+        <div className="skill-box">JavaScript</div>
         <div className="skill-box">Java</div>
         <div className="skill-box">MySQL</div>
 
